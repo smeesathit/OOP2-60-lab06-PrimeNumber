@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PrimeNumber
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=PrimeNumber()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ PrimeNumber\r\n
+comment3.params=
+comment3.target=void\ start()
+comment4.params=value
+comment4.target=boolean\ isPrime(int)
+numComments=5
